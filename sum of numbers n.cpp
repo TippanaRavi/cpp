@@ -21,3 +21,7 @@ int main()
 
     return 0;
 }
+
+input::: 4
+ 
+output :: 10
